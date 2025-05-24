@@ -1,0 +1,14 @@
+Rank,Feature,MI Score,Description
+1,chol,0.2307,Serum cholesterol in mg/dl
+2,thalach,0.1788,Maximum heart rate achieved
+3,oldpeak,0.1507,ST depression induced by exercise relative to rest
+4,thal,0.1464,Thallium stress test result
+5,cp,0.1325,Chest pain type
+6,ca,0.1319,Number of major vessels colored by fluoroscopy
+7,slope,0.0935,Slope of the peak exercise ST segment
+8,exang,0.0872,Exercise induced angina
+9,trestbps,0.0803,Resting blood pressure in mm Hg
+10,age,0.0782,Age in years
+11,sex,0.0190,Sex (1=male; 0=female)
+12,restecg,0.0172,Resting electrocardiographic results
+13,fbs,0.0000,Fasting blood sugar > 120 mg/dl

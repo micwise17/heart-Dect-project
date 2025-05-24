@@ -1,0 +1,8 @@
+,"KNN (Full Features, K=7)","KNN (MI Features, K=9)",Difference
+Accuracy,86.38%,85.60%,-0.78%
+Precision,85.93%,81.88%,-4.05%
+Recall,87.88%,92.42%,+4.55%
+Specificity,84.80%,78.40%,-6.40%
+F1-Score,86.89%,86.83%,-0.06%
+AUC,94.50%,94.42%,-0.08%
+Prediction Time (s),0.0408,0.0305,-0.0103

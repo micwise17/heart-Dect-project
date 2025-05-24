@@ -1,0 +1,8 @@
+,KNN (Full Features),KNN (MI Features),Difference
+Accuracy,92.22%,90.66%,-1.56%
+Precision,91.18%,89.71%,-1.47%
+Recall,93.94%,92.42%,-1.52%
+Specificity,90.40%,88.80%,-1.60%
+F1-Score,92.54%,91.04%,-1.49%
+AUC,98.46%,98.36%,-0.10%
+Prediction Time (s),0.0872,0.0667,-0.0206
